@@ -63,3 +63,4 @@ C:\Users\T450s\source\repos\pingapp_backup2018\pingapp2\pingapp2\obj\Debug\TPing
 C:\Users\T450s\source\repos\pingapp_backup2018\pingapp2\pingapp2\obj\Debug\pingapp2.Form2.resources
 C:\Users\T450s\source\repos\pingapp_backup2018\pingapp2\pingapp2\bin\Debug\SnmpSharpNet.dll
 C:\Users\T450s\source\repos\pingapp_backup2018\pingapp2\pingapp2\obj\Debug\pingapp2.csproj.CopyComplete
+C:\Users\T450s\source\repos\pingapp_backup2018\pingapp2\pingapp2\obj\Debug\pingapp2.AdminHelper.resources
